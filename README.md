@@ -9,7 +9,7 @@ Como Instalar
 Antes de iniciar, certifique-se de ter o Python 3 instalado em seu sistema. Para instalar as dependências necessárias, siga os passos abaixo:
 
 Clone o repositório:
-git clone https://github.com/seu_usuario/seu_repositorio.git
+git clone [https://github.com/seu_usuario/seu_repositorio.git](https://github.com/RivailleVD/Vosk.git)
 cd seu_repositorio
 
 Instale as dependências:
