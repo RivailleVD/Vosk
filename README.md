@@ -35,3 +35,4 @@ import vosk
 Referências
 Este projeto é inspirado no trabalho feito pela Alpha Cephei, criadores do Vosk. Sinta-se à vontade para explorar a documentação oficial e aprender mais sobre as incríveis funcionalidades dessa ferramenta.
 
+
